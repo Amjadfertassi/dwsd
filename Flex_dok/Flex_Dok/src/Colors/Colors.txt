@@ -1,0 +1,3 @@
+Dark Purple = #4c036c
+light blue = #1847f5
+Gray = 
